@@ -19,6 +19,25 @@ IntelliMaze AI demonstrates how different pathfinding algorithms behave inside d
 - Real-time statistics panel
 - Executable desktop version included
 
+## Dynamic Maze Regeneration
+
+The Reset button procedurally generates an entirely new maze every time it is pressed.
+
+Each reset creates:
+
+* New wall layouts
+* New weighted node placements
+* New traversal patterns
+* New optimization challenges
+
+This ensures:
+
+* Infinite replayability
+* Dynamic algorithm behavior
+* Unique traversal visualization every execution
+
+No two maze generations are guaranteed to be identical.
+
 ---
 
 # Algorithms Implemented
