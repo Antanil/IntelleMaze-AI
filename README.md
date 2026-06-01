@@ -192,4 +192,5 @@ This project was developed to visually demonstrate:
 
 # Author
 
-Developed as an AI Pathfinding Visualization Mini Project using Python and Arcade.
+Antanil Gupta Bakshi
+B.Tech CSE (Data Science) Techno Main Salt Lake Batch of 2023-2027
